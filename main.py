@@ -30,4 +30,6 @@ def main():
 
     fibonacci()
 
+    print("Isn't merging fun?")
+
 main()
