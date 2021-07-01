@@ -31,5 +31,6 @@ def main():
     fibonacci()
 
     print("Isn't merging fun?")
+    print("more merge fun")
 
 main()
