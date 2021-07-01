@@ -33,5 +33,6 @@ def main():
     print("Add difference")
 
     print("Isn't merging fun?")
+    print("more merge fun")
 
 main()
